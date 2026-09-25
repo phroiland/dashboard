@@ -47,9 +47,9 @@
   "dependencies": {
     "@angular/animations": "16.2.1",
     "@angular/cdk": "14.2.7",
-    "@angular/common": "16.2.1",
-    "@angular/compiler": "16.2.1",
-    "@angular/core": "16.2.1",
+    "@angular/common": "20.3.28",
+    "@angular/compiler": "20.3.27",
+    "@angular/core": "20.3.28",
     "@angular/flex-layout": "15.0.0-beta.42",
     "@angular/forms": "16.2.1",
     "@angular/localize": "16.2.1",
@@ -65,7 +65,7 @@
     "d3-time-format": "4.1.0",
     "file-saver": "2.0.5",
     "js-base64": "3.7.7",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.3.2",
     "jwt-decode": "4.0.0",
     "material-design-icons": "3.0.1",
     "ngx-cookie-service": "19.1.2",
@@ -89,7 +89,7 @@
     "@angular/cli": "16.2.0",
     "@angular/compiler-cli": "16.2.1",
     "@angular/language-service": "16.2.1",
-    "@babel/core": "7.26.10",
+    "@babel/core": "7.29.6",
     "@babel/preset-env": "7.26.9",
     "@babel/register": "7.25.9",
     "@cypress/webpack-preprocessor": "6.0.2",
@@ -145,7 +145,7 @@
     "stylelint-no-unsupported-browser-features": "8.0.4",
     "stylelint-order": "6.0.4",
     "stylelint-prettier": "5.0.3",
-    "tar": "7.4.3",
+    "tar": "7.5.21",
     "through2": "4.0.2",
     "ts-jest": "29.3.2",
     "ts-loader": "9.5.2",
@@ -153,7 +153,7 @@
     "typescript": "5.1.6",
     "wait-on": "8.0.3",
     "webpack-bundle-analyzer": "4.10.2",
-    "webpack-dev-server": "5.2.2"
+    "webpack-dev-server": "5.2.6"
   },
   "overrides": {
     "colors": "1.4.0"
